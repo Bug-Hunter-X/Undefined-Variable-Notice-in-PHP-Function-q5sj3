@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP error: the undefined variable notice.  The `bug.php` file contains a function that attempts to add two variables that have not been defined. This results in a notice-level error when the script is executed. The `bugSolution.php` file provides a corrected version that addresses the undefined variable issue.
